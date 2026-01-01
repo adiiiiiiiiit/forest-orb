@@ -29,7 +29,7 @@
     "chatbox": {
       "location": "Lokasi:&nbsp;",
       "nextLocation": "Lokasi Berikut:&nbsp;",
-      "immersionMode": "Mode Immersion",
+      "immersionMode": "Mode Immersi",
       "reconnect": "Hubung kembali",
       "tab": {
         "chat": "Chat",
@@ -67,10 +67,10 @@
       "hostedWithPermission": "Dihost dengan izin dari para pembuat Yume 2kki"
     },
     "disclaimer": {
-      "pendingApproval": "Pending approval from developer/publisher",
+      "pendingApproval": "Menunggu persetujuan dari pengembang/penerbit",
       "hostedWithPermission": "Dihost dengan izin dari para pembuat Yume 2kki",
       "originalCreation": "Kreasi orisinal dari komunitas YNOproject",
-      "gameEndDate": "Available to play on YNOproject until {{date}}"
+      "gameEndDate": "Tersedia dimainkan di YNOproject sampai {{date}}"
     },
     "modal": {
       "common": {
@@ -84,8 +84,8 @@
       "login": {
         "title": "Masuk",
         "fields": {
-          "username": "Username",
-          "password": "Password"
+          "username": "Nama pengguna",
+          "password": "Kata sandi"
         },
         "submit": "Kirim",
         "registerPrompt": "Belom punya akun?&nbsp;",
@@ -95,9 +95,9 @@
         "title": "Daftar",
         "fields": {
           "email": "Alamat Email",
-          "username": "Username",
-          "password": "Password",
-          "confirmPassword": "Konfirmasi Password"
+          "username": "Nama pengguna",
+          "password": "Kata sandi",
+          "confirmPassword": "Konfirmasi kata sandi"
         },
         "submit": "Kirim",
         "loginPrompt": "Sudah punya akun?&nbsp;",
@@ -133,7 +133,7 @@
             }
           },
           "saveReminder": {
-            "label": "Pengingat untuk simpan save",
+            "label": "Pengingat untuk menyimpan",
             "interval": {
               "minutes": "{{interval}} menit",
               "never": "Jangan lagi"
@@ -143,17 +143,17 @@
           "musicVolume": "Volume Musik",
           "togglePlayerSounds": "Suara Pemain",
           "toggleEnableBadgeHints": {
-            "label": "Badge Hints",
-            "helpText": "Badge hints become available once you have unlocked the 'Badge Collector Amulet EX' badge. When enabled, an icon will appear in the top right when you enter a location with at least one badge you haven't unlocked."
+            "label": "Petunjuk Lencana",
+            "helpText": "Petunjuk Lencana menjadi tersedia ketika kamu meraih lencana 'Badge Collector Amulet EX'. Ketika diaktifkan, sebuah ikon akan muncul di pojok kanan atas ketika kamu memasuki sebuah tempat dengan setidaknya satu lencana yang tidak kamu punyai."
           },
-          "togglePlayBadgeHintSound": "Play Badge Hint Sound",
+          "togglePlayBadgeHintSound": "Mainkan Suara Petunjuk Lencana",
           "toggleEnableExplorer": {
             "label": "Penjelajah Yume 2kki",
             "helpText": "Penjelajah Yume 2kki ada integrasi Yume 2kki Explorer untuk melihat koneksi dari lokasimu dalam sekejap. Fitur ini bisa mengubah eksperiensmu secara besar, direkomendasikan untuk kamu menggunakan fitur ini setelah mengeksplor seporsi game ini. Kamu harus masuk akun sebelum menggunakan Penjelajah Yume 2kki."
           },
           "toggleImmersionMode": {
-            "label": "Mode Immersion",
-            "helpText": "Matikan angka pemain, chat global, and peta-peta untuk memberi eksperiens yang lebih immersif."
+            "label": "Mode Immersi",
+            "helpText": "Matikan angka pemain, chat global, and peta-peta untuk memberi pengalaman yang lebih immersif."
           },
           "timeTrialinfo": {
             "label": "Trial Waktu"
